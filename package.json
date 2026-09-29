@@ -1,0 +1,12 @@
+{
+  "name": "portfolio-sederhana",
+  "version": "1.0.0",
+  "description": "Web Portofolio Modern & Sederhana",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx serve ."
+  },
+  "keywords": ["portfolio", "web", "developer"],
+  "author": "Alex Pratama",
+  "license": "MIT"
+}
